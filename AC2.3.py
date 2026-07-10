@@ -1,4 +1,4 @@
-# The first demonstration will show how to apply decision-making with the use of IF, ELIF and ELSE functions.
+# This first demonstration will show how to apply decision-making with the use of IF, ELIF and ELSE functions.
 # The program will begin by offering the user a type of transport for their journey.
 # The program will have an attitude problem towards the user if the user continues to select a number that is not 1, 2 or 3.  
 
